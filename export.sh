@@ -1,0 +1,1 @@
+/usr/local/mysql/bin/mysql -h127.0.0.1 -P3306 -uroot -p123465 --default-character-set=utf8 -N -e "use source_db;SELECT * FROM demo_table" > /Users/jiangxinqiang/Sites/poseidon/ods-source_db-demo_table5747.xls
